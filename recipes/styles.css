@@ -1,0 +1,48 @@
+html{background-color: grey;}
+body{
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+a{text-decoration: none;}
+
+.d01{width: 425px;float: left;}
+.d02{width: 25px ;float: left;}
+.d03{width: 40px ;float: left;}
+
+/*beige Color*/
+.div01, .div02, .div03, .div04, .div07{background-color: beige;}
+
+/*brown color*/
+.div01, .div04, .div05,.div08,.div09,.div10,.div11,.div12{
+    background-color: brown;
+}
+
+/*Height*/
+.div01, .div03, .div04, .div05, .div07, .div08, .div08, .div09, .div11, .div12{
+    height: 30px;
+}
+
+/*height*/
+.div02, .div10{height: 550px;}
+
+/*especial*/
+.div09{border-top-right-radius: 26px;}
+.div12{border-bottom-right-radius: 26px;}
+/*especial*/
+
+/*tabs - 110px */
+.div06{
+    height: 110px;
+    background-color: greenyellow;}
+.div07{
+    height: 470px;
+    background-color: blue;}
+
+/*tabs - 110px */
+.div06tapi{
+    height: 220px;
+    background-color: greenyellow;}
+.div07tapi{
+    height: 360px;
+    background-color: blue;}

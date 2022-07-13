@@ -1,4 +1,15 @@
 html{background-color: black;}
+body{
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+a{
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
 
 /*Color Red*/
 .div05, .div06, .div07, .div08 { background-color:darkred;}
@@ -18,11 +29,11 @@ html{background-color: black;}
 /* Height */
 .div03, .div07, .div11 { height: 40px;}
 
-.d01{width: 490px;float: left;}
+.d01{width: 385px;float: left;}
 
-.d02{width: 25px; float:left}
+.d02{width: 25px;float: left;}
 
-.d03{width: 70px;float:left}
+.d03{width: 70px;float: left;}
 
 .div01{}
 
