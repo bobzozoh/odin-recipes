@@ -1,0 +1,67 @@
+html{background-color: black;}
+
+/*Color Red*/
+.div05, .div06, .div07, .div08 { background-color:darkred;}
+
+/*Color Brown*/
+.div01, .div04 { background-color:brown;}
+
+/*Color Green lime*/
+.div03 , .div11 { background-color:greenyellow;}
+
+/*Color Beige*/
+.div02, .div10 { background-color:beige;}
+
+/*Default Height 200px*/
+.d01, .d02, .d03 { height: 200px;}
+
+/* Height */
+.div03, .div07, .div11 { height: 40px;}
+
+.d01{width: 490px;float: left;}
+
+.d02{width: 25px; float:left}
+
+.d03{width: 70px;float:left}
+
+.div01{}
+
+.div02{}
+
+.div03{}
+
+.div04{}
+
+.div05{}
+
+.div06{}
+
+.div07{}
+
+.div08{}
+
+.div09{
+    border-top-right-radius: 26px;
+    height: 200px;
+    background-color: brown;   
+}
+
+.div10{}
+
+.div11{}
+
+.div12{  
+    border-bottom-right-radius: 26px;
+    background-color: brown; 
+}
+
+
+/*
+
+ d01   d02   d03
+div01 div05 div09
+div02 div06 div10
+div03 div07 div11
+div04 div08 div12
+
+*/
