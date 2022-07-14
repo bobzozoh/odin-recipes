@@ -5,10 +5,19 @@ body{
     display: table;
 }
 a{text-decoration: none;}
+/*fun start here*/
+.d01{
+    padding: 0px;
+    width: 435px;
+    float: left;}
 
-.d01{width: 425px;float: left;}
-.d02{width: 25px ;float: left;}
-.d03{width: 40px ;float: left;}
+.d02{
+    width: 15px ;
+    float: left;}
+
+.d03{
+    width: 40px ;
+    float: left;}
 
 /*beige Color*/
 .div01, .div02, .div03, .div04, .div07{background-color: beige;}
@@ -34,15 +43,56 @@ a{text-decoration: none;}
 /*tabs - 110px */
 .div06{
     height: 110px;
-    background-color: greenyellow;}
+    background-color: greenyellow;
+}
 .div07{
     height: 470px;
-    background-color: blue;}
+    background-color: blue;
+}
 
-/*tabs - 110px */
+/*tabs - 110px tapioca*/
 .div06tapi{
     height: 220px;
-    background-color: greenyellow;}
+    background-color: greenyellow;
+}
 .div07tapi{
     height: 360px;
-    background-color: blue;}
+    background-color: blue;
+}
+
+/*tabs - 110px brigadeiro*/
+.div06brig{
+    height: 330px;
+    background-color: greenyellow;
+}
+.div07brig{
+    height: 250px;
+    background-color: blue;
+}
+
+/*tabs - 110px french-toast*/
+.div06ft{
+    height: 440px;
+    background-color: greenyellow;
+}
+.div07ft{
+    height: 140px;
+    background-color: blue;
+}
+
+.n-p{
+    display: flex;
+    height: 1%;
+    align-items: center;
+    justify-content: center;
+}
+
+/*cbc-l content box color and the first letter of the 
+name of the page*/
+.cbc-l, .cbc-t,.cbc-b,.cbc-f{
+    padding-left: 5px;
+    padding-right: 8px;
+    border-top-style: solid;
+    border-top-color: greenyellow;
+    border-top-width: 15px;
+}
